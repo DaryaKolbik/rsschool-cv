@@ -36,6 +36,6 @@ number = Number(prompt("Введите любое положительное ч�
 * [JS/FE Pre-School 2022 in RS School](https://github.com/rolling-scopes-school/tasks/tree/master/stage0) (in progress)
 ***
 ## Languages ##
-**English:** Intermediate/Upper-intermediate (according to the online test at [www.efset.org](https://www.efset.org/)) 
-**Belarussian, Russian:** Native  
-**Italian:** Elementary
+**English:** Intermediate/Upper-intermediate (according to the online test at [www.efset.org](https://www.efset.org/))   
+**Belarussian, Russian:** Native    
+**Italian:** Elementary  
